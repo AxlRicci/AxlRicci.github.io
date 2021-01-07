@@ -17,9 +17,9 @@
 
 ## Key Features
 
-* Fully responsive Design
+* Fully responsive design
 * CSS flexbox and CSS grid
-* PostCSS (autoprefix, minification, etc)
+* PostCSS
 * SASS
 * BEM
 
@@ -39,8 +39,8 @@
 This software uses the following resources:
 
 - [SASS](https://sass-lang.com/)
-- [Front-End Mentor](https://www.frontendmentor.io/)
 - [PostCSS](https://postcss.org/)
+- [Front-End Mentor](https://www.frontendmentor.io/)
 
 ## License
 
