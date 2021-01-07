@@ -1,0 +1,22 @@
+body {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-size: $font-size-default;
+    font-weight: $font-weight-default;
+    color: $font-color-dark;
+    line-height: 1.8;
+}
+
+.heading {
+    text-align: center;
+    
+    &__title {
+        font-size: 3.3rem;
+        margin-bottom: 2rem;
+    }
+
+    &__subtitle {
+        color: $font-color-light;
+        font-size: 1.8rem;
+    }
+}
+
