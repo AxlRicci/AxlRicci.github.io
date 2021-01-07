@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple web application to help schools track and analyse sustainable  school travel for students.</h4>
+<h4 align="center">A simple landing page for a fictional application.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
